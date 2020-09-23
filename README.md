@@ -1,4 +1,4 @@
-# react-native-toast-message
+# react-native-toast 
 
 [![npm version](https://img.shields.io/npm/v/react-native-toast-message)](https://www.npmjs.com/package/react-native-toast-message)
 [![npm downloads](https://img.shields.io/npm/dw/react-native-toast-message)](https://www.npmjs.com/package/react-native-toast-message)
@@ -8,7 +8,7 @@ An animated toast message component for React Native that can be called imperati
 
 ## Install
 ```
-yarn add react-native-toast-message
+yarn add react-native-toast-hd
 ```
 ![ToastSuccess](success-toast.gif)
 
